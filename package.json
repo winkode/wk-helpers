@@ -1,0 +1,10 @@
+{
+  "name": "wk-helpers",
+  "description": "A library of utilities and helpers to leverage project creation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/winkode/wk-helpers.git",
+  "author": "Winkode",
+  "contributors": ["Agnel Nieves <agnelnieves@gmail.com>"],
+  "license": "MIT"
+}
